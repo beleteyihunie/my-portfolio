@@ -70,7 +70,21 @@ nav ul li a:hover {
 #hero p {
     font-size: 1.5rem;
 }
-
+#education {
+    padding: 50px 0;
+    text-align: center;
+    background-color: #fff;
+}
+#education h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+#education p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    width: 80%;
+    margin: 0 auto;
+}
 /* About Me Section */
 #about {
     padding: 50px 0;
